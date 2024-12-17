@@ -1,0 +1,55 @@
+{
+  "restaurant": [
+    {
+      "nom": "Restaurant El Tangerino",
+      "adresse": "Ave Mohammed VI, Tanger, Maroc",
+      "spécialité": "Cuisine espagnole et méditerranéenne",
+      "notation": "4.5 sur 5",
+      "numéro_de_téléphone": "+212 539-941111",
+      "avis": "Excellent emplacement face à la mer, service impeccable, plats savoureux et ambiance chaleureuse."
+    },
+    {
+      "nom": "Restaurant Le Saveur du Poisson",
+      "adresse": "Escalier Waller, Rue Ach-Chourafaa, Tanger, Maroc",
+      "spécialité": "Fruits de mer et poisson",
+      "notation": "4.6 sur 5",
+      "numéro_de_téléphone": null,
+      "avis": "Un concept unique avec un menu fixe, tout est délicieux et frais. Très apprécié des locaux et des touristes."
+    },
+    {
+      "nom": "Restaurant Le Relais de Paris",
+      "adresse": "Hôtel Husa Solazur, Ave Mohammed VI, Tanger, Maroc",
+      "spécialité": "Cuisine française",
+      "notation": "4.3 sur 5",
+      "numéro_de_téléphone": "+212 539-348383",
+      "avis": "Cadre élégant, plats raffinés et un service de qualité. Idéal pour une soirée chic."
+    },
+    {
+      "nom": "Restaurant Anna & Paolo",
+      "adresse": "Rue Ibn Rochd, Tanger, Maroc",
+      "spécialité": "Cuisine italienne",
+      "notation": "4.4 sur 5",
+      "numéro_de_téléphone": "+212 539-942845",
+      "avis": "Les meilleures pizzas et pâtes de Tanger, avec un accueil chaleureux et une atmosphère conviviale."
+    },
+    {
+      "nom": "Restaurant Ch'hiwat L'Couple",
+      "adresse": "Place Riad Sultan, Médina, Tanger, Maroc",
+      "spécialité": "Cuisine marocaine traditionnelle",
+      "notation": "4.7 sur 5",
+      "numéro_de_téléphone": "+212 539-375345",
+      "avis": "Des saveurs marocaines authentiques, avec un excellent rapport qualité-prix dans un cadre traditionnel."
+    },
+    {
+      "nom": "Restaurant Ô Saveur",
+      "adresse": "Route de Malabata, Tanger, Maroc",
+      "spécialité": "Cuisine européenne et marocaine",
+      "notation": "4.5 sur 5",
+      "numéro_de_téléphone": "+212 539-342123",
+      "avis": "Une fusion parfaite entre cuisine locale et internationale, service impeccable et vue magnifique."
+    }
+  ],
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
